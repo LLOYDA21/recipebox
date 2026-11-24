@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title": "Chicken Adobo",
+    "image": "adobo.jpg",
+    "ingredients": ["500g chicken thighs", "1/3 cup soy sauce", "1/4 cup vinegar", "5 garlic cloves, crushed", "2 bay leaves", "1 tsp whole peppercorns", "1 cup water"],
+    "instructions": ["Combine chicken, soy sauce, vinegar, garlic, bay leaves and peppercorns in a pot.", "Marinate for 30 minutes.", "Add water and bring to a boil, then simmer covered for 30 minutes.", "Uncover and simmer until the sauce thickens.", "Serve hot with steamed rice."],
+    "cookingTime": "45 mins",
+    "servings": 4,
+    "category": "Main Dish"
+  },
+  {
+    "id": 2,
+    "title": "Spaghetti Carbonara",
+    "image": "carbo.jfif",
+    "ingredients": ["200g spaghetti", "100g bacon, diced", "2 eggs", "50g grated parmesan", "2 garlic cloves", "Black pepper", "Salt"],
+    "instructions": ["Boil the spaghetti in salted water until al dente.", "Fry the bacon with garlic until crisp.", "Whisk eggs, parmesan and black pepper in a bowl.", "Drain the pasta and toss with the bacon off the heat.", "Stir in the egg mixture quickly so it forms a creamy sauce. Serve immediately."],
+    "cookingTime": "25 mins",
+    "servings": 2,
+    "category": "Pasta"
+  },
+  {
+    "id": 3,
+    "title": "Pancit Canton",
+    "image": "CANTOON.jfif",
+    "ingredients": ["250g pancit canton noodles", "200g chicken breast, sliced", "1 carrot, julienned", "1 cup cabbage, shredded", "1/2 cup green beans", "3 garlic cloves", "1 onion", "3 tbsp soy sauce", "2 cups chicken broth", "2 tbsp oil"],
+    "instructions": ["Sauté garlic and onion in oil until fragrant.", "Add the chicken and cook until no longer pink.", "Add carrot, green beans and cabbage, and stir-fry for 2 minutes.", "Pour in broth and soy sauce and bring to a boil.", "Add noodles and toss until the liquid is absorbed. Serve with calamansi."],
+    "cookingTime": "30 mins",
+    "servings": 4,
+    "category": "Noodles"
+  },
+  {
+    "id": 4,
+    "title": "Classic Margherita Pizza",
+    "image": "PIZZA.jpeg",
+    "ingredients": ["1 pizza dough ball", "1/2 cup tomato sauce", "200g fresh mozzarella", "Fresh basil leaves", "2 tbsp olive oil", "Pinch of salt"],
+    "instructions": ["Preheat the oven to its highest setting, about 250°C.", "Stretch the dough into a round on a floured tray.", "Spread tomato sauce and top with torn mozzarella.", "Bake for 10 to 12 minutes until the crust is golden.", "Top with basil and a drizzle of olive oil."],
+    "cookingTime": "30 mins",
+    "servings": 2,
+    "category": "Pizza"
+  },
+  {
+    "id": 5,
+    "title": "Beef Tacos",
+    "image": "TACO.jpg",
+    "ingredients": ["300g ground beef", "1 tbsp taco seasoning", "6 small tortillas", "1 tomato, diced", "1 cup shredded lettuce", "1/2 cup shredded cheese", "1/4 cup sour cream", "1 tbsp oil"],
+    "instructions": ["Heat oil in a pan and brown the beef.", "Add taco seasoning and 3 tbsp water, and simmer for 5 minutes.", "Warm the tortillas in a dry pan.", "Fill each tortilla with beef, lettuce, tomato and cheese.", "Top with sour cream and serve."],
+    "cookingTime": "20 mins",
+    "servings": 3,
+    "category": "Main Dish"
+  },
+  {
+    "id": 6,
+    "title": "Chicken Sinigang",
+    "image": "CHICKENSIN.jfif",
+    "ingredients": ["500g chicken pieces", "1 packet sinigang mix", "1 tomato, quartered", "1 onion, quartered", "1 radish, sliced", "1 cup water spinach (kangkong)", "5 string beans", "2 green chili peppers", "6 cups water", "Fish sauce to taste"],
+    "instructions": ["Boil the water with onion and tomato.", "Add the chicken and simmer for 25 minutes until tender.", "Stir in the sinigang mix and add radish and string beans.", "Cook for 5 minutes, then add chili and kangkong.", "Season with fish sauce and serve hot."],
+    "cookingTime": "45 mins",
+    "servings": 4,
+    "category": "Soup"
+  },
+  {
+    "id": 7,
+    "title": "Creamy Tomato Soup",
+    "image": "TOMATO SOUP.jfif",
+    "ingredients": ["6 ripe tomatoes, chopped", "1 onion, chopped", "2 garlic cloves", "2 cups vegetable broth", "1/2 cup cream", "2 tbsp butter", "1 tsp sugar", "Salt and pepper"],
+    "instructions": ["Melt butter and cook onion and garlic until soft.", "Add the tomatoes and cook for 10 minutes.", "Pour in the broth and simmer for 15 minutes.", "Blend until smooth.", "Stir in the cream, sugar, salt and pepper, and heat through."],
+    "cookingTime": "35 mins",
+    "servings": 4,
+    "category": "Soup"
+  },
+  {
+    "id": 8,
+    "title": "Caesar Salad",
+    "image": "CEASAR.jfif",
+    "ingredients": ["1 head romaine lettuce", "1 cup croutons", "1/4 cup grated parmesan", "1/3 cup Caesar dressing", "1 grilled chicken breast, sliced (optional)", "Black pepper"],
+    "instructions": ["Wash and chop the romaine into bite-size pieces.", "Place it in a large bowl and add the dressing.", "Toss until the leaves are evenly coated.", "Top with croutons, parmesan and chicken.", "Finish with black pepper and serve right away."],
+    "cookingTime": "15 mins",
+    "servings": 2,
+    "category": "Salad"
+  },
+  {
+    "id": 9,
+    "title": "Fluffy Pancakes",
+    "image": "FLUFFY.jfif",
+    "ingredients": ["1 1/2 cups all-purpose flour", "2 tbsp sugar", "2 tsp baking powder", "1/2 tsp salt", "1 1/4 cups milk", "1 egg", "3 tbsp melted butter", "Maple syrup for serving"],
+    "instructions": ["Mix flour, sugar, baking powder and salt in a bowl.", "Whisk milk, egg and melted butter in another bowl.", "Combine the two and stir until just mixed. A few lumps are fine.", "Pour 1/4 cup batter per pancake onto a greased hot pan.", "Flip when bubbles form and cook until golden. Serve with syrup."],
+    "cookingTime": "20 mins",
+    "servings": 4,
+    "category": "Breakfast"
+  },
+  {
+    "id": 10,
+    "title": "Garlic Fried Rice with Egg",
+    "image": "GARLIC.jfif",
+    "ingredients": ["3 cups cooked rice, day-old", "6 garlic cloves, minced", "3 tbsp oil", "2 eggs", "Salt to taste", "Spring onions for topping"],
+    "instructions": ["Heat oil and fry the garlic until golden. Don't let it burn.", "Add the rice and break up the clumps.", "Stir-fry for 5 minutes and season with salt.", "Fry the eggs in a separate pan, sunny-side up.", "Serve the rice topped with an egg and spring onions."],
+    "cookingTime": "15 mins",
+    "servings": 2,
+    "category": "Breakfast"
+  },
+  {
+    "id": 11,
+    "title": "Chicken Curry",
+    "image": "CURRY.jfif",
+    "ingredients": ["500g chicken, cubed", "1 onion, chopped", "3 garlic cloves", "1 tbsp grated ginger", "2 tbsp curry powder", "1 cup coconut milk", "2 potatoes, cubed", "1 carrot, sliced", "2 tbsp oil", "Salt to taste"],
+    "instructions": ["Sauté onion, garlic and ginger in oil.", "Add the curry powder and stir for 1 minute.", "Add the chicken and cook until lightly browned.", "Pour in the coconut milk and add potatoes and carrot.", "Simmer for 25 minutes until the vegetables are tender. Serve with rice."],
+    "cookingTime": "40 mins",
+    "servings": 4,
+    "category": "Main Dish"
+  },
+  {
+    "id": 12,
+    "title": "Grilled Cheese Sandwich",
+    "image": "SAND.jpg",
+    "ingredients": ["4 slices bread", "4 slices cheddar cheese", "2 tbsp butter"],
+    "instructions": ["Butter one side of each bread slice.", "Place 2 slices butter-side down in a pan on medium heat.", "Add the cheese, then top with the other slices, butter-side up.", "Cook for 3 minutes per side until golden and the cheese melts.", "Slice in half and serve warm."],
+    "cookingTime": "10 mins",
+    "servings": 2,
+    "category": "Snack"
+  },
+  {
+    "id": 13,
+    "title": "Chocolate Chip Cookies",
+    "image": "CHIP.jfif",
+    "ingredients": ["2 1/4 cups flour", "1 tsp baking soda", "1 tsp salt", "1 cup butter, softened", "3/4 cup white sugar", "3/4 cup brown sugar", "2 eggs", "2 tsp vanilla", "2 cups chocolate chips"],
+    "instructions": ["Preheat the oven to 190°C.", "Mix the flour, baking soda and salt.", "Cream the butter and both sugars, then beat in the eggs and vanilla.", "Stir in the flour mixture and the chocolate chips.", "Drop spoonfuls on a tray and bake for 10 minutes until golden."],
+    "cookingTime": "25 mins",
+    "servings": 24,
+    "category": "Dessert"
+  },
+  {
+    "id": 14,
+    "title": "Leche Flan",
+    "image": "FLAN.jfif",
+    "ingredients": ["10 egg yolks", "1 can (385ml) evaporated milk", "1 can (390g) condensed milk", "1 tsp vanilla", "1/2 cup sugar for caramel"],
+    "instructions": ["Melt the sugar in a llanera or mold until it turns amber.", "Whisk the yolks, evaporated milk, condensed milk and vanilla gently.", "Strain the mixture into the mold.", "Cover with foil and steam for 35 to 40 minutes.", "Cool, chill for 2 hours, then flip onto a plate."],
+    "cookingTime": "1 hr",
+    "servings": 6,
+    "category": "Dessert"
+  },
+  {
+    "id": 15,
+    "title": "Banana Smoothie",
+    "image": "banana.jpg",
+    "ingredients": ["2 ripe bananas", "1 cup milk", "1/2 cup yogurt", "1 tbsp honey", "4 ice cubes"],
+    "instructions": ["Peel and slice the bananas.", "Add everything to a blender.", "Blend for 1 minute until smooth.", "Pour into a glass and serve cold."],
+    "cookingTime": "5 mins",
+    "servings": 2,
+    "category": "Drinks"
+  }
+]
